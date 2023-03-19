@@ -4,7 +4,7 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
-#Instructions
+## Instructions
 A table contains a database of 1,000 sample crowdfunding projects.
 Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
 
@@ -19,12 +19,12 @@ Create a new column called Average Donation that uses a formula to find how much
 
 Create two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
 
-#Category Stats
+## Category Stats
 Create a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
 
 Create a stacked-column pivot chart that can be filtered by country based on the table that you created.
 
-#Subcategory Stats
+## Subcategory Stats
 Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 
 Create a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
@@ -35,7 +35,7 @@ Create a new column named Date Created Conversion that will use this formulaLink
 
 Create a new column named Date Ended Conversion that will use this formulaLinks to an external site. to convert the data contained in deadline into Excel's date format.
 
-#Outcomes Based on Launch Date
+## Outcomes Based on Launch Date
 Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
 
 Now, create a pivot-chart line graph that visualizes this new table.
@@ -48,7 +48,7 @@ What are some limitations of this dataset?
 
 What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-#Crowfunding Goal Analysis
+## Crowfunding Goal Analysis
 Create a new sheet with 8 columns:
 
 Goal
@@ -100,7 +100,7 @@ Add up each of the values in the Number Successful, Number Failed, and Number Ca
 
 Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-#Statistical Analysis
+## Statistical Analysis
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
